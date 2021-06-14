@@ -1,0 +1,23 @@
+{
+  "name": "aws-sdk-test",
+  "version": "1.0.0",
+  "description": "AWS SDK",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptitsynamv/aws-sdk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptitsynamv/aws-sdk/issues"
+  },
+  "homepage": "https://github.com/ptitsynamv/aws-sdk#readme",
+  "dependencies": {
+    "aws-sdk": "^2.927.0",
+    "uuid": "^8.3.2"
+  }
+}
